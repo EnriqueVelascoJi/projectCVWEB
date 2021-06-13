@@ -290,7 +290,7 @@
 .main-services {
 
     width: 100%;
-    background-color: aquamarine;
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
 
 }
 .main-services-global {
